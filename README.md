@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi i'm Duvan 👋
+
+I'm a Web Developer, my objetive is to be a person who generate value with make do, never stop learning, pleasure in tecnology, innovation leadership and personal development.
+
+
+
 
 <!--
 **DuvanMorenoCardona/DuvanMorenoCardona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
