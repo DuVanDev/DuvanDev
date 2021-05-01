@@ -7,7 +7,7 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
 </a>
 <a target="_blank" href="https://twitter.com/DuvanMorenoCar1">
-  <img align="left" alt="Twitter" width="22px" src="https://logos-marcas.com/wp-content/uploads/2020/04/Twitter-Logo.png" />
+  <img align="left" alt="Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
 </a>
 
 
