@@ -1,7 +1,7 @@
 ### Hi i'm Duvan 👋
 
 <a target="_blank" href="https://www.linkedin.com/in/duv%C3%A1n-moreno-cardona-767513171/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614463069~hmac=b168566c0364dd15023a3c5763472481" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a target="_blank" href="https://dev.to/duvanmorenocardona">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
