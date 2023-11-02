@@ -30,6 +30,7 @@ I'm a passionate software developer with a focus on web development and cloud en
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 </div>
 </br>
+
 ## Let's Connect 📫
 
 I'm always looking to collaborate and learn from others in the tech community. If you have questions, project ideas, or just want to chat, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/duv%C3%A1n-moreno-cardona-767513171/) or [Twitter](https://twitter.com/DuVanDev).
