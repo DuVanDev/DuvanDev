@@ -1,46 +1,43 @@
-### Hi i'm Duvan 👋
+### Hi i'm Duván 👋
 
 <a target="_blank" href="https://www.linkedin.com/in/duv%C3%A1n-moreno-cardona-767513171/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img width="30" src="https://freelogopng.com/images/all_img/1656997498linkedin-icon-white.png" alt="LinkedIn" title="LinkedIn"/>
 </a>
 <a target="_blank" href="https://dev.to/duvanmorenocardona">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
+  <img width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" alt="LinkedIn" title="LinkedIn"/>
 </a>
-<a target="_blank" href="https://twitter.com/DuvanMorenoCar1">
-  <img align="left" alt="Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
+<a target="_blank" href="https://twitter.com/DuVanDev">
+    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="LinkedIn" title="LinkedIn"/>
 </a>
-
-
-
 </br>
 
-----
+## About Me 🚀
 
-I'm a Web Developer, my objetive is to be a person who generate value with make do, never stop learning, pleasure in tecnology, innovation leadership and personal development.
+I'm a passionate software developer with a focus on web development and cloud engineering.My journey in the tech world has taken me from crafting responsive web interfaces to mastering cloud technologies ☁️, and I'm excited to share some of my projects and expertise with you.
 
-**Languages and Tools:**
+## Technologies I Work With 💻
 
-<code><img height="20" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" title="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" title="JQuery" src="https://icons-for-free.com/iconfiles/png/512/logo+icon-1320190791807406540.png"></code>
-<code><img height="20" title="HTML5" src="https://icons-for-free.com/iconfiles/png/512/develop+html+language+layout+markup+programming+icon-1320165729268863150.png"></code>
-<code><img height="20" title="CSS3" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"></code>
+</br>
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+</div>
+</br>
+## Let's Connect 📫
 
-<!--
-**DuvanMorenoCardona/DuvanMorenoCardona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always looking to collaborate and learn from others in the tech community. If you have questions, project ideas, or just want to chat, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/duv%C3%A1n-moreno-cardona-767513171/) or [Twitter](https://twitter.com/DuVanDev).
+</br>
+</br>
+</br>
+<div align="center" >
+  <strong> Thanks for stopping by my GitHub profile. Let's build the future together! 🚀 </strong>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
