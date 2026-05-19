@@ -6,7 +6,7 @@ toward applied ML engineering.
 
 ### What I do today
 - 🏗️ Tech Lead at a startup — building production systems (Python, FastAPI, AWS)
-- 📚 Learning ML/AI from the ground up (Karpathy, math, Fluent Python)
+- 📚 Learning ML/AI from the ground up — follow along at [ai-journey](https://github.com/DuVanDev/ai-journey)
 - ✍️ Writing about it at [your-blog.com] *(coming soon)*
 
 ### What I'm working on now
