@@ -24,7 +24,7 @@ toward applied ML engineering.
 - *Designing Data-Intensive Applications* — Kleppmann
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/duv%C3%A1n-moreno-cardona-767513171/) · [X / Twitter](https://x.com/DuVanDev) · [Blog](#) *(soon)*
+[LinkedIn](https://www.linkedin.com/in/duv%C3%A1n-moreno-cardona-767513171/) · [X / Twitter](https://x.com/DuVanDev) · [Blog](https://duvandev.github.io/)
 
 ---
 
